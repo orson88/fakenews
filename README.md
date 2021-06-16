@@ -22,4 +22,5 @@ https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
 ## glove twitter 
 https://www.kaggle.com/icw123/glove-twitter
+
 https://nlp.stanford.edu/pubs/glove.pdf
