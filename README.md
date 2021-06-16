@@ -14,3 +14,12 @@ Real news dataset
 
 # glove.twitter.27B.200d.txt
 Text file with GloVe embeddings from twitter
+
+# Data and paper links
+## Fake and Real csvs 
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+
+
+## glove twitter 
+https://www.kaggle.com/icw123/glove-twitter
+https://nlp.stanford.edu/pubs/glove.pdf
